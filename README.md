@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me giangduong120900@gmail.com
 - 💬 Ask me about **everything that you like.**
-- ⚡ Fun fact **I think I am very friendly.**
+- ⚡ Fun fact **I think I am very friendly. ^^**
 # Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/giangduong1209)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009359214056)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/giangduog129/) 
 # Language and Tools
