@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Giang Duong
 # I'm Front-end Dev from VietNam 
-- 👀 I’m interested in Machine Learning & Security, UX/UI
+- 👀 I’m interested in Machine Learning & NLP, UX/UI
 - 🌱 I’m currently learning Javascript 
 - 📫 How to reach me giangduong120900@gmail.com
 - 💬 Ask me about **everything that you like.**
