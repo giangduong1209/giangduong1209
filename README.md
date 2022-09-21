@@ -15,11 +15,7 @@ giangduong1209/giangduong1209 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-# GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giangduong1209&show_icons=true&theme=radical)
-# Top Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giangduong1209&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-# Github Streak Stats
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giangduong1209&layout=compact&theme=jolly" alt="giangduong1209" /></p>
 
