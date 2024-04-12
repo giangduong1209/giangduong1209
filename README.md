@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Giang Duong
 # I'm Front-end Dev from VietNam 
-- 👀 I’m interested in UX/UI, Machine Learning & NLP
-- 🌱 I’m currently learning Blockchain 
+- 👀 I’m interested in UX/UI design.  
+- 🌱 I’m currently learning NLP.
 <!-- - 📫 How to reach me giangduong.dev@gmail.com -->
 - 💬 Ask me about **everything that you like.**
 - ⚡ Fun fact **I think I am very friendly. ^^**
